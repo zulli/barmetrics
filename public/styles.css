@@ -74,12 +74,19 @@ body {
 #data {
 	height:250px;
 	width:73px;
-	background-color:#0CC;
-	position:absolute;
-  	bottom:45px;
+	position:relative;
 	margin-left:100px;
 
 }
+
+#data_percent{
+    width: 100%;
+	background-color:#0CC;
+	position:absolute;
+  	bottom:-160px;
+}
+
+
 #video {
 	height:300px;
 	width:500px;
