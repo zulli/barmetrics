@@ -20,9 +20,9 @@ $(document).ready(function(){
                         {
                           drawPoints: true,
                           // showRoller: true,
-			  fillGraph: true,
-			  highlightCircleSize: 10,
-			  strokeWidth: 3,
+                          fillGraph: true,
+                          highlightCircleSize: 10,
+                          strokeWidth: 3,
                           valueRange: [0.0, 1000],
                           labels: ['Time', 'Weight']
                         });
